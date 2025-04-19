@@ -1,5 +1,5 @@
 """Crie um algoritmo que leia o valor do produto e mostre os seus respectivos
-valores no pix (com desconto) e no cartão de crédito (com juros)."""
+valores no pix (com desconto) e no cartão de crédito (com juros)"""
 
 valor = float(input('Qual o valor do produto? R$ '))
 

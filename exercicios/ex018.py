@@ -1,5 +1,5 @@
 """Faça um programa qualquer que leia um ângulo qualquer e mostre na tela o valor
-do seno, cosseno e tangente desse ângulo."""
+do seno, cosseno e tangente desse ângulo"""
 
 from math import cos, sin, tan, radians
 
