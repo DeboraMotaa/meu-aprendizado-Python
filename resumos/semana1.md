@@ -76,4 +76,5 @@ print("Linha 1\nLinha 2")
 - Ver o código funcionar é muito satisfatório!
 - Estou aprendendo com a prática e os erros — e isso é parte essencial do processo.
 
+
 ---
